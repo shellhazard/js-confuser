@@ -23,7 +23,8 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.10.0",
-    "escodegen": "^2.0.0"
+    "escodegen": "^2.0.0",
+    "escodegen-wallaby": "^1.6.43"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
