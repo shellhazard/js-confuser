@@ -6,7 +6,7 @@ import {
   getRandomTrueExpression,
 } from "../../src/util/random";
 
-const escodegen = require("escodegen-walley");
+const escodegen = require("escodegen-wallaby");
 
 it("choice() should return a random element from an array", async () => {
   var sample = [10, 20, 30, 40, 50];

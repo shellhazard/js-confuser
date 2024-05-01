@@ -3,7 +3,7 @@ import { writeFileSync } from "fs";
 import { ObfuscateOptions } from "./options";
 import { Node } from "./util/gen";
 
-const escodegen = require("escodegen-walley");
+const escodegen = require("escodegen-wallaby");
 
 export default async function compileJs(tree: any, options: ObfuscateOptions) {
   return compileJsSync(tree, options);
