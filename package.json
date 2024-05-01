@@ -19,7 +19,7 @@
     "javascript obfuscator",
     "js obfuscator"
   ],
-  "author": "MichaelXF",
+  "author": "shellhazard",
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.10.0",
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichaelXF/js-confuser"
+    "url": "https://github.com/shellhazard/js-confuser"
   },
   "bugs": {
-    "url": "https://github.com/MichaelXF/js-confuser/issues"
+    "url": "https://github.com/shellhazard/js-confuser/issues"
   },
   "homepage": "https://js-confuser.com",
   "jest": {
